@@ -11,5 +11,5 @@
     <properties>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
-    <name>webstandards-template</name>
+    <name>webstandards-wildfly</name>
 </project>
